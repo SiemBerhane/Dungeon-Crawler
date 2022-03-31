@@ -1,0 +1,3 @@
+rep "Computer Science NEA@siember@cloud"
+  path "/"
+    smartbranch "/main"
